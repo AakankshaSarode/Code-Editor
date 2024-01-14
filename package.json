@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "github:fortawesome/react-fontawesome",
+    "codemirror": "^5.65.16",
+    "react-codemirror2": "^7.3.0"
+  },
+  "scripts" :{
+    "start":"react-scripts start",
+    "build":"react-scripts build"
+  }
+}
